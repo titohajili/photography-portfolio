@@ -45,7 +45,7 @@ const Service = () => {
     <div className='pt-16 pb-16'>
       <div className='w-[73%] mx-auto text-center'>
          {/* Title */}
-        <h1 className='text-black text-2xl md:text-4xl font-light tracking-wide leading-snug'>
+        <h1 className='text-black text-2xl md:text-4xl font-light tracking-wide leading-snug '>
           - My services -
         </h1>
 

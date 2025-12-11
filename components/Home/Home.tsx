@@ -3,6 +3,7 @@ import RegisterPage from './Register/RegisterPage'
 import About from './About/About'
 import FeaturedWork from './Featured/FeaturedWork'
 import Service from './Service/Service'
+import Pricing from './Pricing/Pricing'
 
 const Home = () => {
   return (
@@ -11,6 +12,7 @@ const Home = () => {
       <About/>
       <FeaturedWork/>
       <Service/>
+      <Pricing/>
     </div>
   )
 }
