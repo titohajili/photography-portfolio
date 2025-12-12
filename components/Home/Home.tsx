@@ -8,6 +8,7 @@ import Packages from './Packages/Packages'
 import Reasons from './Reasons/Reasons'
 import Team from './Team/Team'
 import Studio from './Wework/Studio'
+import Facts from './Facts/Facts'
 
 const Home = () => {
   return (
@@ -21,6 +22,7 @@ const Home = () => {
       <Reasons/>
       <Team/>
       <Studio/>
+      <Facts/>
     </div>
   )
 }
