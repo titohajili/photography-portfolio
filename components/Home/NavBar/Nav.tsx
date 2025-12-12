@@ -57,7 +57,7 @@ const Nav = ({openNav}: Props) => {
                  <FaInstagram className="text-2xl text-white transition-all duration-300 hover:scale-125 hover:text-pink-500 hover:drop-shadow-[0_0_8px_rgba(255,0,150,0.8)] cursor-pointer"/>
                  <FaSquareFacebook className="text-2xl text-white transition-all duration-300 hover:scale-125 hover:text-blue-600 hover:drop-shadow-[0_0_8px_rgba(0,100,255,0.8)] cursor-pointer"/>
                  <FaXTwitter className="text-2xl text-white transition-all duration-300 hover:scale-125 hover:text-gray-300 hover:drop-shadow-[0_0_8px_rgba(200,200,200,0.8)] cursor-pointer"/>
-
+                  
                  <RxHamburgerMenu  onClick={openNav} className='w-8 h-8 text-white cursor-pointer  lg:hidden'/>
               </div>
 
