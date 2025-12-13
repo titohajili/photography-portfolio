@@ -10,6 +10,7 @@ import Team from './Team/Team'
 import Studio from './Wework/Studio'
 import Facts from './Facts/Facts'
 import Reviews from './Reviews/Reviews'
+import Publications from './Publications/Publications'
 
 const Home = () => {
   return (
@@ -25,6 +26,7 @@ const Home = () => {
       <Studio/>
       <Facts/>
       <Reviews/>
+      <Publications/>
     </div>
   )
 }
