@@ -9,6 +9,7 @@ import Reasons from './Reasons/Reasons'
 import Team from './Team/Team'
 import Studio from './Wework/Studio'
 import Facts from './Facts/Facts'
+import Reviews from './Reviews/Reviews'
 
 const Home = () => {
   return (
@@ -23,6 +24,7 @@ const Home = () => {
       <Team/>
       <Studio/>
       <Facts/>
+      <Reviews/>
     </div>
   )
 }
