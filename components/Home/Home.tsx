@@ -11,6 +11,7 @@ import Studio from './Wework/Studio'
 import Facts from './Facts/Facts'
 import Reviews from './Reviews/Reviews'
 import Publications from './Publications/Publications'
+import Request from './Request/Request'
 
 const Home = () => {
   return (
@@ -27,6 +28,7 @@ const Home = () => {
       <Facts/>
       <Reviews/>
       <Publications/>
+      <Request/>
     </div>
   )
 }
