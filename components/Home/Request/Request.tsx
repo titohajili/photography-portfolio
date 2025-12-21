@@ -2,7 +2,7 @@ import React from 'react'
 
 const Request = () => {
   return (
-    <div className='pt-16 pb-16'>
+    <div className='pt-16 pb-10'>
       <div className='w-full h-[120vh] relative'>
         {/* Background */}
         <div className="absolute inset-0 bg-cover bg-center flex flex-col items-center justify-center" style={{ backgroundImage: "url('/images/ggg.png')" }}>
